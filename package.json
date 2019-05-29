@@ -1,0 +1,15 @@
+{
+  "name": "justin-jsonserver",
+  "version": "1.0.0",
+  "description": "use for mocking",
+  "main": "index.js",
+  "dependencies": {
+    "json-server": "^0.14.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "author": "Justin Montalban",
+  "license": "ISC"
+}

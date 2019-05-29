@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "firstName": "Luka",
+      "lastName": "Doncic ",
+      "email": "jj@angular.com",
+      "position": "Software Engineer",
+      "companyId": 2,
+      "address": "SULU, Philippines",
+      "description": "Gentle Giant SDSADS",
+      "image": "https://www.gravatar.com/avatar/5b2524b1fef509c6058ac721440fc617?s=328&d=identicon&r=PG&f=1",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "firstName": "Julius",
+      "lastName": "Nicoloas",
+      "position": "Software Engineer",
+      "companyId": "1",
+      "address": "Manila, Philippines",
+      "email": "JN@angular.com",
+      "description": "Gentle Giant",
+      "image": "https://www.gravatar.com/avatar/5b2524b1fef509c6058ac721440fc617?s=328&d=identicon&r=PG&f=1"
+    }
+  ],
+  "companies": [
+    {
+      "companyId": 1,
+      "company": "PetSure Inc",
+      "address": "Estrella, Philippines",
+      "description": "GOOOOOOGLE",
+      "image": "https://www.gravatar.com/avatar/5b2524b1fef509c6058ac721440fc617?s=328&d=identicon&r=PG&f=1"
+    },
+    {
+      "companyId": 2,
+      "company": "Google Inc",
+      "address": "Manila, Philippines",
+      "description": "GOOOOOOGLE",
+      "image": "https://www.gravatar.com/avatar/5b2524b1fef509c6058ac721440fc617?s=328&d=identicon&r=PG&f=1"
+    }
+  ]
+}
